@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer and a Aspiring ML engineer
 ----------------------------------------
 
-##Results-driven data engineer with a Master's in Applied Computer Science from Concordia University. Proven track record of leveraging advanced analytics to drive business outcomes.
+## Results-driven data engineer with a Master's in Applied Computer Science from Concordia University. Proven track record of leveraging advanced analytics to drive business outcomes.
 
 #### Technical Expertise
 - Programming Languages: Proficient in Python, SQL, and Java
