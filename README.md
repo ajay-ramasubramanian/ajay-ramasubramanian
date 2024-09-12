@@ -4,7 +4,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer and a Aspiring ML engineer
 ----------------------------------------
 
-I'm a data wizard who recently conjured up a Master's in Applied Computer Science from Concordia University, after earning my Bachelor's in Computer Science in the vibrant city of Chennai. My toolbox is packed with programming languages like Python and Java, and I'm familiar with a range of technologies, including machine learning and cloud computing, particularly with Azure and AWS. I've architected a slick data pipeline for Formula 1 and snagged a shiny second place in the CIFAR-10 Challenge with just a handful of training samples. My internships at Quantium and KPMG turned me into a data detective, unearthing insights that boosted marketing effectiveness and revenue by up to 10%. When I'm not crunching numbers or building models, I'm probably penning research on neural networks (like my published work on Amazon product reviews) or dreaming up the next big data solution. With my freshly minted Master's degree, I'm ready to cast even more powerful spells in the world of data. So, if you need someone to turn chaos into clarity, I'm your qualified data sorcerer!
+##Results-driven data engineer with a Master's in Applied Computer Science from Concordia University. Proven track record of leveraging advanced analytics to drive business outcomes.
+
+#### Technical Expertise
+- Programming Languages: Proficient in Python, SQL, and Java
+- Machine Learning Frameworks: Expertise in TensorFlow and PyTorch
+- Cloud Technologies: Skilled in Azure and AWS
+- Big Data Processing: Experienced with Apache Spark
+
+#### Key Achievements
+- CIFAR-10 Challenge: Achieved a top-tier finish, demonstrating advanced machine learning capabilities
+- Formula 1 Data Analysis: Developed a robust ETL pipeline to analyze complex datasets
+
+#### Professional Experience:
+- During internships at Quantium and KPMG, delivered tangible results by improving marketing ROI by 10% through predictive modeling and data-driven insights.
+Research Contributions
+- Published research on sentiment analysis using Bidirectional-LSTM, showcasing the ability to translate complex technical concepts into actionable business value.
+
+#### Career Objective:
+Seeking to apply my analytical acumen and technical expertise to solve complex business challenges and drive strategic decision-making in a forward-thinking organization. So, if you need someone to turn chaos into clarity, I'm your qualified data sorcerer!
 
 * 🌍  I'm based in Montreal
 * ✉️  You can contact me at [ramasubramanianajay@gmail.com](mailto:ramasubramanianajay@gmail.com)
