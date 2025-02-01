@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ajay Ramasubramanian.
 =============================================================================================================================================
 
-Data Engineer and a Aspiring ML engineer
+Software Engineer with a specialty in Data Engineering and AI/ML Product Development
 ----------------------------------------
 
-### Results-driven data engineer with a Master's in Applied Computer Science from Concordia University. Proven track record of leveraging advanced analytics to drive business outcomes.
+### Results-driven Software engineer with a Master's in Applied Computer Science from Concordia University. Proven track record of leveraging advanced analytics to drive business outcomes.
 
 #### Technical Expertise
 - Programming Languages: Proficient in Python, SQL, and Java
@@ -26,7 +26,7 @@ Seeking to apply my analytical acumen and technical expertise to solve complex b
 
 * 🌍  I'm based in Montreal
 * ✉️  You can contact me at [ramasubramanianajay@gmail.com](mailto:ramasubramanianajay@gmail.com)
-* 🚀  I'm currently working on [Spotify Insight: End-to-End Data Engineering & ML pipeline](http://github.com/ajay-ramasubramanian/Spotify-Insight)
+* 🚀  I'm currently working on [LanguageMate](https://github.com/overlordiam/LanguageMate)
 * 🧠  I'm learning How to build a production level Data and ML pipeline similar to what Spotify uses to scale to a billion users. which includes technologies like Apache Kafka, Flink Pyspark, S3 object stores, AWS Redshift and much more.
 * 🤝  I'm open to collaborating on anything to do with Transforming Data into Insights!!
 
