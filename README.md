@@ -24,7 +24,7 @@ Research Contributions
 #### Career Objective:
 Seeking to apply my analytical acumen and technical expertise to solve complex business challenges and drive strategic decision-making in a forward-thinking organization. So, if you need someone to turn chaos into clarity, I'm your qualified data sorcerer!
 
-* 🌍  I'm based in Montreal
+* 🌍  I'm based in Canada.
 * ✉️  You can contact me at [ramasubramanianajay@gmail.com](mailto:ramasubramanianajay@gmail.com)
 * 🚀  I'm currently working on [LanguageMate](https://github.com/overlordiam/LanguageMate)
 * 🧠  I'm learning How to build a production level Data and ML pipeline similar to what Spotify uses to scale to a billion users. which includes technologies like Apache Kafka, Flink Pyspark, S3 object stores, AWS Redshift and much more.
