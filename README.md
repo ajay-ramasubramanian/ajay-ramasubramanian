@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ajay Ramasubramanian.
 =============================================================================================================================================
 
-Software Engineer with a specialty in Data Engineering and AI/ML Product Development
+Software Engineer with a specialty in Agentic Systems
 ----------------------------------------
 
 ### Results-driven Software engineer with a Master's in Applied Computer Science from Concordia University. Proven track record of leveraging advanced analytics to drive business outcomes.
@@ -12,21 +12,17 @@ Software Engineer with a specialty in Data Engineering and AI/ML Product Develop
 - Cloud Technologies: Skilled in Azure and AWS
 - Big Data Processing: Experienced with Apache Spark
 
-#### Key Achievements
-- CIFAR-10 Challenge: Achieved a top-tier finish, demonstrating advanced machine learning capabilities
-- Formula 1 Data Analysis: Developed a robust ETL pipeline to analyze complex datasets
-
 #### Professional Experience:
 - During internships at Quantium and KPMG, delivered tangible results by improving marketing ROI by 10% through predictive modeling and data-driven insights.
 Research Contributions
 - Published research on sentiment analysis using Bidirectional-LSTM, showcasing the ability to translate complex technical concepts into actionable business value.
 
 #### Career Objective:
-Seeking to apply my analytical acumen and technical expertise to solve complex business challenges and drive strategic decision-making in a forward-thinking organization. So, if you need someone to turn chaos into clarity, I'm your qualified data sorcerer!
+Seeking to apply my analytical acumen and technical expertise to design, deploy, and optimize agentic AI systems that autonomously solve complex business challenges and drive intelligent decision-making in innovative organizations. If you need someone to architect AI agents that transform operational complexity into seamless automation, I'm your qualified AI solutions architect.
 
 * 🌍  I'm based in Canada.
 * ✉️  You can contact me at [ramasubramanianajay@gmail.com](mailto:ramasubramanianajay@gmail.com)
-* 🚀  I'm currently working on [LanguageMate](https://github.com/overlordiam/LanguageMate)
+* 🚀  I'm currently working on [OpenMed](https://github.com/ajay-ramasubramanian/OpenMed)
 * 🧠  I'm learning How to build a production level Data and ML pipeline similar to what Spotify uses to scale to a billion users. which includes technologies like Apache Kafka, Flink Pyspark, S3 object stores, AWS Redshift and much more.
 * 🤝  I'm open to collaborating on anything to do with Transforming Data into Insights!!
 
